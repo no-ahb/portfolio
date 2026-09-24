@@ -1,0 +1,1572 @@
+{
+  "units": "millimetres",
+  "assemblyTransformsAvailable": false,
+  "parts": [
+    {
+      "slug": "m5-washer",
+      "label": "M5 plain washer",
+      "family": "Chamfered plain washer normal M5",
+      "source": "Assembly 1 - Chamfered plain washer normal M5 (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "9c183ab7178578c2b794a18145655d61260f86d6bf4793920e3b8028d98623dc",
+      "bounds": {
+        "min": [
+          -5,
+          -4.9860189859059005,
+          -0.5
+        ],
+        "max": [
+          5,
+          4.9860189859059005,
+          0.5
+        ]
+      },
+      "triangles": 420,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Chamfered plain washer normal M5 (1).step",
+          "sha256": "9c183ab7178578c2b794a18145655d61260f86d6bf4793920e3b8028d98623dc",
+          "dataHash": "338e377109ebb27928d71fb3fb7fbf0bbcfd73e312e6abc5b53087caa8d1e8ba"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Chamfered plain washer normal M5.step",
+          "sha256": "d3314f79ba267bd1ffc4305928c86b902ac2ac8a8bf9fef1fff550e89c4aaa5a",
+          "dataHash": "338e377109ebb27928d71fb3fb7fbf0bbcfd73e312e6abc5b53087caa8d1e8ba"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Chamfered plain washer normal M5 (1).step",
+          "sha256": "6627a34f1ad59b78498cb6b970eaa27f90f8594ae64b97a4fa58f9d11ddd6b63",
+          "dataHash": "338e377109ebb27928d71fb3fb7fbf0bbcfd73e312e6abc5b53087caa8d1e8ba"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Chamfered plain washer normal M5.step",
+          "sha256": "ce334dcaf6e63480feba4c5448c3f3260439a6d470149c0fdd56f832ff9ae270",
+          "dataHash": "338e377109ebb27928d71fb3fb7fbf0bbcfd73e312e6abc5b53087caa8d1e8ba"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m10-washer",
+      "label": "M10 spring washer",
+      "family": "Conical spring lock washer M10",
+      "source": "Assembly 1 - Conical spring lock washer M10 (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "d6b08c9c02f5cc1ba264d4601c844c4da4e9d242725bb672bc8817eecffb6e93",
+      "bounds": {
+        "min": [
+          -11.5,
+          -11.46784366758357,
+          -1.25
+        ],
+        "max": [
+          11.5,
+          11.46784366758357,
+          1.25
+        ]
+      },
+      "triangles": 336,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (1).step",
+          "sha256": "d6b08c9c02f5cc1ba264d4601c844c4da4e9d242725bb672bc8817eecffb6e93",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (10).step",
+          "sha256": "5082e9630c6b7869424074dc33da0cac9d152ec4ee6342ba650f63e7c377ed23",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (11).step",
+          "sha256": "2e9cc378654eef6e78c6780c26bfa5df5f068325cd610b7368aa1650f6cc7287",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (12).step",
+          "sha256": "f1fb152b7e0c2a3a195b86b31e4d6cde98b3c759ba450f5ba0f1a5b4e5c05659",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (13).step",
+          "sha256": "6dfb5260b97366e47119ae8593646949915f842cd972b4bd60f52355ac0aaf06",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (14).step",
+          "sha256": "88547c7f92d52f3caecb0585d8c672e25363e28ba1ae484358f6ad0304e950f5",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (15).step",
+          "sha256": "761a234527fd73e4d8107d124c3863611e503180ce23bfa41c66130f80916dfa",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (16).step",
+          "sha256": "03d02d325d374d30414d51d0ad6179db7114f8bfd69a13841507db0a903e577e",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (17).step",
+          "sha256": "582348703dc49c86b50fe6e71afb8db71c2836179da147b18c34ee38d6c650ac",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (18).step",
+          "sha256": "37fe2d0ff3dbd56b48e78bb205487a1d79f98f81fff612217ff8473d996ec704",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (19).step",
+          "sha256": "aafaa0b1dbd52a08ca010d87a17a3d50048fa579d629db62dcdc372d7e49ead5",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (2).step",
+          "sha256": "041113b067eb4bbea05f271a096b583b71ac03597c024ede434f198ad495b06f",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (20).step",
+          "sha256": "f9274bae2d64bd25ab321f39fdd15da3460d91b3944ac2b664c97bdc53212fbe",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (21).step",
+          "sha256": "896f19fb611ad01c722e7ff7278167164f6a23837847e59763f0e57c22bf614b",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (22).step",
+          "sha256": "c6c947f4836c9631a04faf970c0e0d90cd358ae8de07ddb5a7baaa3d4ce127b8",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (23).step",
+          "sha256": "8b8afca3a2dcead978dd520ece85b6246a873a04d38b222c83462a75f4fb7602",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (24).step",
+          "sha256": "1a29e039a63bcccbfdd4f8db8580c24e8140e54045a6bdb5e2b88cb23d750179",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (25).step",
+          "sha256": "eb9dbc50ea885f747bd6317b1fda7274d9c2da67e25c042906647e55449413c0",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (26).step",
+          "sha256": "fd41080a13908491973fd716beab7b4cd758787cf0c42ee671bc45ea3c5f43d1",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (27).step",
+          "sha256": "babd98f60eab238de72d71e18543f4d6e66685e3d9b4c1a1016ee87870ecadde",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (28).step",
+          "sha256": "7037d1e2983cd60329245d4389289719e0326edaa7bd9b87e1862f6feb052f93",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (29).step",
+          "sha256": "e5936617bf9aec82c23f52531f04ff064021e343f8897f27a24c00b32754efd2",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (3).step",
+          "sha256": "799dfccb58dc43115f0e12d6f7b45822e70207549ea6d271746a14d20f48e5fc",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (30).step",
+          "sha256": "2655bd082b06defe27689c7eb5b2316faf1102063dd6e1f11346dac3a3b4746e",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (31).step",
+          "sha256": "ed760c41811633ea3f64d2c4ba4960b33300868321b004a313110c3987bbb3ce",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (32).step",
+          "sha256": "0243c098eb07955cff79e7e3450a9a9cff5a7efb696ac47154a40df7a464fd88",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (33).step",
+          "sha256": "af718c0ebc60b8c4c5a64714be41719db1c44dc5fa7241c0d7bf0ba58e5942f5",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (4).step",
+          "sha256": "ed2dd503a7695ff44e5f2b1db5f7a7f027229a5e4d6ff24843f172a326135650",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (5).step",
+          "sha256": "b19cffe6bc34b56ebb40148066034ca935eae8d0823be433e886f8afa660b378",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (6).step",
+          "sha256": "2d3572646755acb1c51cc0f0f3e2b05632a59c2d751e585b60961ac7183a62dc",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (7).step",
+          "sha256": "c2ba1b7dfc7b02cd7fbeb6ad945da515d7e18f27aff5b1dd418fef2b9b0587bd",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (8).step",
+          "sha256": "f247ff222c13bf44c7bf9061b9dc5f1e6018f5c53ceb8041fe5b6e2d18a80437",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (9).step",
+          "sha256": "0fad8e887096acf99c3801aab953232900ca0d257c20a4016b0fbeea6d2b45b9",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Conical spring lock washer M10.step",
+          "sha256": "5763c0bdeb1b80a20311729279cdc0dbcb467e4d3c38ab885e57aae3ab954e6c",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (1).step",
+          "sha256": "2072d4933cf7d720648550ee362f28225df66636c0f0802c3d4f487c5bc3fee5",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (2).step",
+          "sha256": "e6e9eeb639f0ec6b71da29b7d3ef5d446ffa0daa8b2f7282b891d592054014fd",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (3).step",
+          "sha256": "bd1b33492a57138606225ee8774cb6b4433a613fecab307414ac2b947a635fae",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (4).step",
+          "sha256": "0ada80f825068fcf37054bbab9fb9313682b4dc9839870e97bc6c3018b911db5",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (5).step",
+          "sha256": "5664cf8ce7542334c25a4162ca868a71b86d199fe4be642084f0a08bf6ee0cfe",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10 (6).step",
+          "sha256": "0c39b4a098b134669cce0d8ca2d9479962b5ac69055a9b986b30093deca08651",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Conical spring lock washer M10.step",
+          "sha256": "e91bd7f0edf1c262a104e2caa74318966e98f3a8d59204891bed68b27dc53614",
+          "dataHash": "e8c156491a7dd765fd977a7dc60336690f578d94dcb2fe2bc1ece9ec098fcbac"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "tapping-screw",
+      "label": "ST4.8 × 9.5 screw",
+      "family": "Cross recessed flat head countersunk tapping screw ST4.8x9.5",
+      "source": "Assembly 1 - Cross recessed flat head countersunk tapping screw ST4.8x9.5 (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "091ff814b69ee60144ad6a0e253a5086c0bcb3faeed63502c76129877db5307f",
+      "bounds": {
+        "min": [
+          -5.2,
+          -5.185459745342137,
+          -9.5
+        ],
+        "max": [
+          5.2,
+          5.185459745342137,
+          6.505213034913031e-16
+        ]
+      },
+      "triangles": 1904,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Cross recessed flat head countersunk tapping screw ST4.8x9.5 (1).step",
+          "sha256": "091ff814b69ee60144ad6a0e253a5086c0bcb3faeed63502c76129877db5307f",
+          "dataHash": "5de2bf11a6a00650ca9252dfa8fba0f62b68543ef4d41862b1d7d5262f5018b7"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Cross recessed flat head countersunk tapping screw ST4.8x9.5 (2).step",
+          "sha256": "0830a635fe97d10d8f1b3f1149079d26f8ca7daba59f3355cbf93483cd6680fe",
+          "dataHash": "5de2bf11a6a00650ca9252dfa8fba0f62b68543ef4d41862b1d7d5262f5018b7"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Cross recessed flat head countersunk tapping screw ST4.8x9.5 (3).step",
+          "sha256": "45f5c15e8b548c52dfd4f1179a7a478298a565ad370d3181ea425ca9229abeb0",
+          "dataHash": "5de2bf11a6a00650ca9252dfa8fba0f62b68543ef4d41862b1d7d5262f5018b7"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Cross recessed flat head countersunk tapping screw ST4.8x9.5.step",
+          "sha256": "181107a77fb41a823060adc82e0537a77513af075618f241cec899ed58692180",
+          "dataHash": "5de2bf11a6a00650ca9252dfa8fba0f62b68543ef4d41862b1d7d5262f5018b7"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m10-bolt",
+      "label": "M10 × 45 bolt",
+      "family": "Hex head bolt grade A & B M10x1.50 x 45",
+      "source": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "a2d3dc90849d69f0f46e307d2195f7d51321f7f09f78fabad5d4edfb93a51ddf",
+      "bounds": {
+        "min": [
+          -9.23760430703401,
+          -8,
+          -45
+        ],
+        "max": [
+          9.23760430703401,
+          8,
+          6.4
+        ]
+      },
+      "triangles": 1582,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (1).step",
+          "sha256": "a2d3dc90849d69f0f46e307d2195f7d51321f7f09f78fabad5d4edfb93a51ddf",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (10).step",
+          "sha256": "4d86ab3bf597d40d190996f9d27de56484b766ee1ebb6cd03a1beea6ee614337",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (11).step",
+          "sha256": "3527686b22981e9aa44a9c50dd8c9d182cbba1c66e0b29e3b0ecdd3a6866cf2d",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (12).step",
+          "sha256": "e02af4dc9bc34d629693555d33de39dc4bebb06a3a6c74221c7dbb53222554e7",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (13).step",
+          "sha256": "883571fd695a086a4e84cd51175973f5ddbe33f9ed8d4de78f46fa3a49f812ff",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (14).step",
+          "sha256": "cfb0339968d999eb4cc245035e55bedd63a1a884590155b93da4c768cb4fcfb9",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (15).step",
+          "sha256": "8cbe93fd3b7a93da370f4e9593a81c0fcdcd5a5ac81f45456090c9a2c0e09ff7",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (16).step",
+          "sha256": "e61a1b93af0a6fde9db084870d57de8f8d2c96624a9402be7881313553ad9d41",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (17).step",
+          "sha256": "131b471aa2c1fe798eead977dd7441745728d616851d99c0d3f3ec7f356e0dfb",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (18).step",
+          "sha256": "f86690efafcb1fefade54a6c266e6208c5a750e5055961a0f00a9c0ba3defaad",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (19).step",
+          "sha256": "a3242166b457995115156fc3875338469b907362090780b82bb9a86bfdfe9dd4",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (2).step",
+          "sha256": "671fedbf0611bdadfa80e28476071bb8f62bd698378f3d6ca58e9b2e9e291643",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (20).step",
+          "sha256": "ae32d48f31f6bf6a93b6f00ff1c9437f9c6e2fd97d20edb061c62e348ac6e507",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (21).step",
+          "sha256": "a9473cc1e11fc767b6abb03c085b52e6ab4f25e7b76f71e7f81ef516876484ad",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (22).step",
+          "sha256": "5b7e972c4d83e2efb568edc9489e0bb099a213b11f8bd0f896592993f1a3569b",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (23).step",
+          "sha256": "a9d865e9e474733aa679e8cb7509198d39d63674d5270ad3c371afe63c2238d9",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (24).step",
+          "sha256": "e82a5a8e2ee24223d47b5524d89f419f00b397c2483e5d187e0250386c2b6e69",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (25).step",
+          "sha256": "21a42b4bbb01cc2238c14abaf92e2d48ec02232431f4b03f373dd78520106b6e",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (26).step",
+          "sha256": "b5d0b2897fef17442f1515951cd4fe4898399ec9a8ab94b441de6f2b97956c1f",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (27).step",
+          "sha256": "1c73629cd394221d3a36fde4d58c8b55c7e73a7654d87a10cee5140b8de474bc",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (28).step",
+          "sha256": "76969d96ec7efccf3045069e71e28926a20a0566a048ff599017b3399f377d31",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (29).step",
+          "sha256": "d46bd61001b3a802826ef8d76289a48bbdb4e4d956bfc88da4732d0ff18f2fa8",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (3).step",
+          "sha256": "6cf4b6dfcc889f9be6a3d90a37be2294d3c5fef74fbb980f0e15356d585cb284",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (4).step",
+          "sha256": "95f8cc48be8d10f880df4c1df27d36b4564927aed960333814b5c8c587e024ce",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (5).step",
+          "sha256": "bb50aaf5d919709aa8a937cdd79f0f1eb404ac8f8312d62d4565277f84916fc7",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (6).step",
+          "sha256": "8b63700c89c0dff683d6ee7a0e67a13c9549e56fb9754301a193d921b79012c0",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (7).step",
+          "sha256": "f74af5e99f96944f7a2335ad827c061aa4de2993304fcc304e9e3a0b48083b8e",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (8).step",
+          "sha256": "be30bac9af4f087390529fa8424bf126a99ef54046c144fb6bc0cc7c45122e6c",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (9).step",
+          "sha256": "f4a037f8a7e37110b5fd00b72f53c9237d15afb6a057481e93a29b1b7f296903",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45.step",
+          "sha256": "1e3039c434f92d8ee55d01a4e92489ddd33143442d4109bce8edfefd35a88b29",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (1).step",
+          "sha256": "209697f34f57c4dbeb6dd539d651b54325f037342bb294c6035f7aaf88fefd88",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (2).step",
+          "sha256": "ed486e95beae92202cd09a899c8c99a5ded467463342a25d1815da77ce961ef4",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (3).step",
+          "sha256": "b46316e39116032ea0119ef126cca84ec1ac4a4de7dc2ca527d7f180c48d718c",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45 (4).step",
+          "sha256": "6d216e2f9fa708a6dbaddb0e2b0a2d749576c6270280bd4f2828ca317abb0247",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M10x1.50 x 45.step",
+          "sha256": "84f84978886cc43a4e8c0fd83f5709adf5a7a70fda065612d0a7a3c8d1c1edd0",
+          "dataHash": "f6c214dde199f4dc740e908a8cfefbbe4e69367fb562ee83bfc25e9510e3b123"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m3-bolt",
+      "label": "M3 × 20 bolt",
+      "family": "Hex head bolt grade A & B M3x0.50 x 20 x 12",
+      "source": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "7b35baf6db9b6ea6154dcb0c59d640a63c9dd4009fa299b4dcda4b4fa0423dc1",
+      "bounds": {
+        "min": [
+          -3.17542648054294,
+          -2.75,
+          -20
+        ],
+        "max": [
+          3.1754264805429497,
+          2.75,
+          2
+        ]
+      },
+      "triangles": 1246,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (1).step",
+          "sha256": "7b35baf6db9b6ea6154dcb0c59d640a63c9dd4009fa299b4dcda4b4fa0423dc1",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (10).step",
+          "sha256": "d460b70eb30c42a57574544c7b46358945ba8bc79b021d4d83827f2f2d259496",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (11).step",
+          "sha256": "b87d651360ae6f9b671cb494ef7d0fff3d77f5b951d9e00b0c3a1c2946262ad7",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (12).step",
+          "sha256": "08768eb7cd8452cb62cbc9c8af8e4b6b28c0e5d853998115132aafd7ee9946b4",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (13).step",
+          "sha256": "9a937e5a0dd0fbd339ab7a32cb7a515c64ba86426e7984e836938ea3a687332c",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (2).step",
+          "sha256": "126df9c3db96b8c5066819c403314b99ab22ae54a6894fc2558d0447b4fd13a6",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (3).step",
+          "sha256": "00a1ccefedade02fef60178171a1d1867a99e3ccaffd093b4775577d0d86864a",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (4).step",
+          "sha256": "ac317f52f6c4fcf36826fae8a877e879e4c8cc53f3d582548e33fed01f26be7f",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (5).step",
+          "sha256": "39385e36ad0e49fddc488f8e018495b81bb51d067cdbc88fecad98fc1363157f",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (6).step",
+          "sha256": "a96ebde4aab5836598b992d4ca3beb61cdc5dd8bb680186945b7cb0531e4bf42",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (7).step",
+          "sha256": "de3967f723666bd0b616b33737522fd1ff173933bf8a9adcf2c8ee0cea9b9b49",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (8).step",
+          "sha256": "286d3ba0e56511f72ea65c9319fe32b8ea0eb14e322af5825a18a46a4ae0bca2",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (9).step",
+          "sha256": "7393df531b9ad912a84ab44f085be3d643d6dff9395d3e1450d5e4f37837db59",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12.step",
+          "sha256": "f09b2cf458d817c330976a8771434fce6dd52043836883bfb1acb42de6e05e24",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (1).step",
+          "sha256": "790f555d3c3bc2bc0cbe543a025fc1dd7e8b09bc90f1215dd46a99968a7aa9e4",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (10).step",
+          "sha256": "9481339a40157bb89c86f427baae65e798f7f921fc17fd92603fc20fdcefe4c1",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (11).step",
+          "sha256": "e3538e6dc992da9de2fd51e708a954205bb0ddfe1b78435de050acb261abe5fe",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (12).step",
+          "sha256": "8d8985291165930c6964ea9928034adf0d8824c13c4dbadff80fb6d273c24b28",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (13).step",
+          "sha256": "b355bd01a248194c1878a5ceb9be1b11762af520bd3a9c323b0cdc7f7e8e36e9",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (2).step",
+          "sha256": "dbe169bc4bfec5fafcec17cc9f975966f23acbbdebf9523d0c3d066c094b0d78",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (3).step",
+          "sha256": "1273eb378a8a282b8788dadd24f5dbb3d51f1dc18268689c985bd3ba0a4c5a66",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (4).step",
+          "sha256": "a474b33730c15e796281ff5ab99276ef44dd69081a16a09ee1170f7378ae30d7",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (5).step",
+          "sha256": "1d689d94427df69854df82b8cb92b6932984348651593ec4a18f5f05e1d23583",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (6).step",
+          "sha256": "41bd31153b473edbfaef04f318ceae22c99f42325e2616bc00a560ef061475ef",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (7).step",
+          "sha256": "399632e097ffed680f91ffad9eaee99780742b1ecfddef59f0ebf452753c5d96",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (8).step",
+          "sha256": "09d0376272ee5a67274697c827fa7af60fa8c059dcecad68ce8362e68129220a",
+          "dataHash": "4abf76220ceac42378d3969862afa93ffcd5f01835190e1424bc44e7e5f55ee0"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12 (9).step",
+          "sha256": "07ba399110a0c857a1bd839586637f1a64319699525dea26a36967911d5d2561",
+          "dataHash": "c35d216f81f1b5d635ddef1bba2c176b2f6cdffb51564688a7cbb9fa9e198439"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 x 12.step",
+          "sha256": "be1c62e8cd0bbc017a0227d060970db941f046fc3c155cbc7cf5b7a2241170f2",
+          "dataHash": "edb4e732b42f114bf149ee5b2929d126a80cb9ccf68c1a51a487026591a70d6a"
+        }
+      ],
+      "identicalInstanceCoordinates": false
+    },
+    {
+      "slug": "m5-bolt",
+      "label": "M5 × 20 bolt",
+      "family": "Hex head bolt grade A & B M5x0.80 x 20 x 16",
+      "source": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "8a489874403e9cfb383fef446ff0f30fdec5419fe7fe671df715e7d7968e028c",
+      "bounds": {
+        "min": [
+          -4.618802153517009,
+          -4,
+          -20
+        ],
+        "max": [
+          4.618802153517009,
+          4,
+          3.5
+        ]
+      },
+      "triangles": 1584,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (1).step",
+          "sha256": "8a489874403e9cfb383fef446ff0f30fdec5419fe7fe671df715e7d7968e028c",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (10).step",
+          "sha256": "9f28788e27f769d614176edd2b5642f98d7b254a36cac93237d05861337a2fab",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (11).step",
+          "sha256": "8cbbd1ea86edb6457098f6fe393008332729ffd9a1a551416f07767533ce1b75",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (12).step",
+          "sha256": "aac2c2691dcef3e1d7cba6aa595f3334edee0ac6978340b2023d16428275ee08",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (13).step",
+          "sha256": "45b98f9c0f072f83e644fc54d039536b071b84fb1f68d735ddf98d0d050a8bd1",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (14).step",
+          "sha256": "281acc4c62d9ebcb568f5398ec9e1f45ead75da429bb00bbdbb754457e93d532",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (15).step",
+          "sha256": "10300562baa2d6eec65d984d0a1276142c9c2fb653c50b61ed4aa54a6444d8ea",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (16).step",
+          "sha256": "615201de169d6e6ca5d02ef3621268140da2f9ce796fbb6211c0638bd95c8375",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (17).step",
+          "sha256": "385c286854163168d36171bafecc19074ef9c9bb559b65539eaae6ae57f8f989",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (18).step",
+          "sha256": "cc9136463111a85aa1e368f811b9bbb4280480562674d76079ab7e068d2f80a0",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (19).step",
+          "sha256": "ca15f7776c189df26c842d588244fdb38024aee1ec752529072727197526cf3b",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (2).step",
+          "sha256": "020ca27f22713a55fde7fc22d78d9245921fb4fa49bd77b2c1134c3ac159f648",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (20).step",
+          "sha256": "7fcf4950bc09fedb897b2c60f7f032dc138c393cf060bdde080840d32a854902",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (21).step",
+          "sha256": "07e7badde913632c675ec81bb54dd4d7b77baa922c9a4ef4bdbb89690ccf884b",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (22).step",
+          "sha256": "e6fb0ba9281598d5ffe1edb8fa9282331f4028541518a0ad0ad8c118504b1554",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (23).step",
+          "sha256": "ba64b12265339c75de4fa7473eae4879324a821c68ce64f202bf5782f7a9e27c",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (24).step",
+          "sha256": "6458d026e5b9e2ad9298421d165907b0603f3a5aee96766ad0f78f57f3999f1b",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (25).step",
+          "sha256": "06c9e7200ca7f8cb9cadde0a5f947499add8fcaec8a48259f36500b467b9e6e0",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (26).step",
+          "sha256": "7131a3d713684ff37a41fd0ded9d3e4164801d474d5d408e699f2bf97c105faa",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (27).step",
+          "sha256": "ac8eb0d3ad51d66c355fffb91a3ed1049ec502d2877c9f5a9c7d57cad6fafc7c",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (3).step",
+          "sha256": "6b4ad7a66fb28460036f4c48a18334dbc55da88bfb9d7d63098ed5bede8d1c44",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (4).step",
+          "sha256": "d5aaeff7fa2a63677eded91091ae4d45901d6a270272e3b726b61a7daf310b4e",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (5).step",
+          "sha256": "d2fb1a7d6ff12a4732bba2e0b0ec75b49c22150a3a750f89b9bab6cead632b90",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (6).step",
+          "sha256": "ff21e7860511436403472284ccb9ddc61a27934f2d75c3d792571044b9879177",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (7).step",
+          "sha256": "c6a459d885d9fed596a24bf24f66352f48f9283ec5e21a352c549be092a007bb",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (8).step",
+          "sha256": "7ea77bfd310d5d668b0594dd9fce9c4006fd912442cce44baad3c4f393d34ad0",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (9).step",
+          "sha256": "e60c5db029da0c4ce686ca39d8e3e76515484f771aa668ee4accdceed8aae1c5",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16.step",
+          "sha256": "f7420bcd39425cde8c50526187337e2c4f774bb84ceebb47311b488ab71ef65e",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (1).step",
+          "sha256": "6e8daf0183daf0fee4e8f408cd06e59c7edfe8d8d0b997f5a16a594df5f5da42",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (10).step",
+          "sha256": "56f675a29dd800b8def6e4d6447bc95507e3d4a8ae623338d5bf7a4b808d7bd1",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (11).step",
+          "sha256": "460056d680bf3638683bad344376aeea554423ca3f6c26c9fd38952320c69b62",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (12).step",
+          "sha256": "091d0883afc9468c48bab5f93989952b77bdf9349edab1041ef040c412198063",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (13).step",
+          "sha256": "d3664ca420de15b371c430e815bdabe7d0dd9a11ec6a66ad2fe862df18e5764d",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (14).step",
+          "sha256": "9b0805803a558c0fd8ffb152b642c8345e27183e0e61f7b62818e7bb189f6a2f",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (15).step",
+          "sha256": "81be00a5166cc145a6b0c7ce74a1a7fcec2b13dd53032ffc16df612a53b03ac1",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (16).step",
+          "sha256": "7695e31b2a0873caad30ae88192ad3e66fd78b2eb0ce680835b7182d72049480",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (17).step",
+          "sha256": "316a9e413ac9b0e8d02429f055ab64c7c188d03ac9d99d10246d438e877c7180",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (18).step",
+          "sha256": "a7fa2e4fe7c3ead7f1d8c1b40b2593cba5c89405be5a9f76d49c4dfbab497c7c",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (19).step",
+          "sha256": "49bf78c15bc5363cd31ab714bfcc8d1ee5b094a73aecfb9a177ae75b7cdf9146",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (2).step",
+          "sha256": "c7ba87f8688f0e70a29d2a1a72e28586c128478ad0347099e408baac72649af1",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (20).step",
+          "sha256": "ba803211cab3bdec9b90a2d705204858f00183c9f6da11368b937f897dc324ee",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (21).step",
+          "sha256": "ceb15b39aa6079e791792b9ba466cebcffdf6ff2610a42c68b5f1084e5393a2d",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (22).step",
+          "sha256": "a0124717a41c8cba14149dde8066cb3eead7931ad8507df0b468403549c2048b",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (3).step",
+          "sha256": "eaa5102f0e8ffe494e2388710f2aa631070868dcd5ab0449d807553ab2a00538",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (4).step",
+          "sha256": "0b9db176f4a5dd132701bfea2278e99c9e1709b0c3ad9949acbccca62c1b6952",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (5).step",
+          "sha256": "a4c1aa49b9f26e20e17706eb5fd7acb19d338c87e890e577048749b585bb94b4",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (6).step",
+          "sha256": "fc66d6e22a80cf25bff20392064f4f7fac44de602a1f249d0254d6bfd71385da",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (7).step",
+          "sha256": "1e09006d74e38c29ab13023deba9e23b76509b2b810d2d963600d8d0f1b9ad94",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (8).step",
+          "sha256": "cfafb9bd772ac2f42d1c83110e9c4ec47dbb29369abbd5d05fb31f64387f132b",
+          "dataHash": "eaac9c5ecd2a4f617571db39cfaef5b9abdb33385dfedf834dcb8f4fbe781263"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16 (9).step",
+          "sha256": "bfa0cf01de4e45d50b67dcc93e7301aba84f34145d30000bc9479ae449988600",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 20 x 16.step",
+          "sha256": "0318cd6135b22274b14d8627c2d4e9914162dbf35a8fad0e3a0c5b65ea256bb4",
+          "dataHash": "544677f036bac9805ba7dfe69f0493174b4b8062df4610ec48022dd318e6cf90"
+        }
+      ],
+      "identicalInstanceCoordinates": false
+    },
+    {
+      "slug": "hitch-pin-plate",
+      "label": "Hitch plate",
+      "family": "Hitch Pin Plate",
+      "source": "Assembly 1 - Hitch Pin Plate.step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "662f45b43e148206935019840f78ec59a87595c56c60d091d59db42286aba2af",
+      "bounds": {
+        "min": [
+          -1832,
+          600,
+          0
+        ],
+        "max": [
+          -612,
+          800,
+          2.5
+        ]
+      },
+      "triangles": 33036,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Hitch Pin Plate.step",
+          "sha256": "662f45b43e148206935019840f78ec59a87595c56c60d091d59db42286aba2af",
+          "dataHash": "103510448942eec624001ddd04243e0164ba71568715179e8d0acbd435e890c2"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hitch Pin Plate.step",
+          "sha256": "81b7d0c734a5fecf50f7c6d2b53d9cfe4b3d0bad6dda4b4b6fef4a7c43938ddf",
+          "dataHash": "103510448942eec624001ddd04243e0164ba71568715179e8d0acbd435e890c2"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "horizontal-angles",
+      "label": "Horizontal angle",
+      "family": "Horizontal Angles",
+      "source": "Assembly 1 - Horizontal Angles (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "18c957f86424eda5b922a1e4c05ad457669e7471b7250e0f20e8b23df1f63ce4",
+      "bounds": {
+        "min": [
+          -1.65340575593335e-12,
+          -1108.7264383566,
+          -8.673617379884039e-16
+        ],
+        "max": [
+          1220.0000000000005,
+          -1065,
+          43.7264383565417
+        ]
+      },
+      "triangles": 3688,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Horizontal Angles (1).step",
+          "sha256": "18c957f86424eda5b922a1e4c05ad457669e7471b7250e0f20e8b23df1f63ce4",
+          "dataHash": "cf6bd4fd60f629da311ef2c914fdd8957af77e7645702857b12c53acd0859bf3"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Horizontal Angles (2).step",
+          "sha256": "a8f5b11fd8f945f3352be621e70a5b2beace9b64a11a35439b711486ed5f8920",
+          "dataHash": "cf6bd4fd60f629da311ef2c914fdd8957af77e7645702857b12c53acd0859bf3"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Horizontal Angles (3).step",
+          "sha256": "3a4b4f84615be4fb537529f9b487863dfb618645e74808b913bfcd3d3cbd8bb4",
+          "dataHash": "cf6bd4fd60f629da311ef2c914fdd8957af77e7645702857b12c53acd0859bf3"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Horizontal Angles.step",
+          "sha256": "baea91f1e633d97ff68bc357d94d63953cd9977905858e7136606d03ae0a2d75",
+          "dataHash": "cf6bd4fd60f629da311ef2c914fdd8957af77e7645702857b12c53acd0859bf3"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "cross-rail",
+      "label": "Square cross rail",
+      "family": "Part 1",
+      "source": "Assembly 1 - Part 1.step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "5e3a1c838f9ccfec0884cf41ff92984bd2bd365583ef14e5591e6bdab9883055",
+      "bounds": {
+        "min": [
+          -10,
+          -10,
+          0
+        ],
+        "max": [
+          10,
+          10,
+          1220
+        ]
+      },
+      "triangles": 2384,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Part 1.step",
+          "sha256": "5e3a1c838f9ccfec0884cf41ff92984bd2bd365583ef14e5591e6bdab9883055",
+          "dataHash": "2abeaa506cbb5b4b922ecd3705a2b4e1e033521298539c57b2986b486ae346b0"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "plywood",
+      "label": "Plywood backing",
+      "family": "Plywood",
+      "source": "Assembly 1 - Plywood (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "43789d62224f001b67603a95d31fa6409108633cec4d78dfbd791fb3d6400a7c",
+      "bounds": {
+        "min": [
+          -5.55111512312578e-14,
+          -700,
+          0
+        ],
+        "max": [
+          1220,
+          -500,
+          36
+        ]
+      },
+      "triangles": 12,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Plywood (1).step",
+          "sha256": "43789d62224f001b67603a95d31fa6409108633cec4d78dfbd791fb3d6400a7c",
+          "dataHash": "3b3aa753467de35c43c55e2a93e0716b1deecd089b2bb729fc7d8e4d8b7c70cc"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Plywood.step",
+          "sha256": "3c2c11cdb1714ca7158564a511c802548b3fc6e73a2028992a16be889aee5855",
+          "dataHash": "3b3aa753467de35c43c55e2a93e0716b1deecd089b2bb729fc7d8e4d8b7c70cc"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Plywood (1).step",
+          "sha256": "1562e5508d095c9dfd09d7134059b61058bf41ba2127c9129711fceacf744b6b",
+          "dataHash": "3b3aa753467de35c43c55e2a93e0716b1deecd089b2bb729fc7d8e4d8b7c70cc"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Plywood.step",
+          "sha256": "7a522fee8dfe0822f9106e2e5ffd50feaf0b7e4af790f3cacc9f905a16e69989",
+          "dataHash": "3b3aa753467de35c43c55e2a93e0716b1deecd089b2bb729fc7d8e4d8b7c70cc"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "pressure-bar",
+      "label": "Pressure bar",
+      "family": "Pressure Bar",
+      "source": "Assembly 1 - Pressure Bar (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "e937a355159bf6e37674527b4873d7619307f63d45066ce4e1a01722830dc6f6",
+      "bounds": {
+        "min": [
+          -1804.8822555542,
+          -554.140142440796,
+          0
+        ],
+        "max": [
+          -1772.8822555542001,
+          -546.140142440796,
+          2.5
+        ]
+      },
+      "triangles": 356,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar (1).step",
+          "sha256": "e937a355159bf6e37674527b4873d7619307f63d45066ce4e1a01722830dc6f6",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar (2).step",
+          "sha256": "16360ef013415238502b32522b1dd2693401faf7fbc01b8bc864cc523661b300",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar (3).step",
+          "sha256": "8a66052bfdb3c1998ad7cef2058b91ab66dfcf49c21c1557f85ef9b972248911",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar (4).step",
+          "sha256": "07e21fa39bf32c5fe8b7b7f07c77f90e7e9a1c0e03060efac9ac280527c91840",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar (5).step",
+          "sha256": "31ea4babb2df7b291b5eab73485a5fc7b0a7fa08581302e5a43e12c307d982cb",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar (6).step",
+          "sha256": "88ad7312db3c6d52398e3f966a8afe7b4d525c1f494d1597f43e979d01962dde",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Pressure Bar.step",
+          "sha256": "30764223aa65ee868f97af8b67ae11f0d24c68cc6001dc1399476f2a22b6fcd9",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar (1).step",
+          "sha256": "0838b6fbc0151441c904d94035949b3fd178c8371aacfcf0f986fe43927e89ff",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar (2).step",
+          "sha256": "1e81a9f194b00429c013fdde4fd80595622e82c4ae7db607ab38fc3560f96da7",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar (3).step",
+          "sha256": "4f63273a9a18eb74c493ecaddb08878948f46ca8f1f707d18b14f75147023382",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar (4).step",
+          "sha256": "4453e093f3fabdcbef3f3544809c51f1d16342ae6a314275e45c2f7031a1558e",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar (5).step",
+          "sha256": "b7900521ff0537b81c9b5d5ae6ccd072032e30e37ae7006c722e1f874636ad77",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar (6).step",
+          "sha256": "68fb7074b17ad60d2e762c3cb90b949539c03f7afa326984a34614150bd6ede9",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Pressure Bar.step",
+          "sha256": "318fe848453229305f7529e86286f94cd6f28a2ccf9002e2ac3772e2301cb0e9",
+          "dataHash": "89dc7aa4297ed4dad3d8ef1aa8608f811d8a91a8546b84300e239f3e607bd280"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "tuning-peg-plate",
+      "label": "Tuning plate",
+      "family": "Tuning Peg Plate",
+      "source": "Assembly 1 - Tuning Peg Plate.step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "adf4af35df0976a37ad40f6a67de749c2829e6728e873158d9e2cacd50ea524e",
+      "bounds": {
+        "min": [
+          -1832,
+          -800,
+          0
+        ],
+        "max": [
+          -612,
+          -600,
+          2.5
+        ]
+      },
+      "triangles": 47828,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Tuning Peg Plate.step",
+          "sha256": "adf4af35df0976a37ad40f6a67de749c2829e6728e873158d9e2cacd50ea524e",
+          "dataHash": "18c57f28d7cd27a9cf9e24244d4cfdcdf3f09eeb55334bc9a333367e75926f05"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Tuning Peg Plate.step",
+          "sha256": "76ba1aa90b2544b1d3543749a49e8b54b6cf76b9e509ba9c24d6bc907e8c3f46",
+          "dataHash": "18c57f28d7cd27a9cf9e24244d4cfdcdf3f09eeb55334bc9a333367e75926f05"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "vertical-angles",
+      "label": "Vertical angle",
+      "family": "Vertical Angles",
+      "source": "Assembly 1 - Vertical Angles (1).step",
+      "sourceFolder": "north sea v1 assembly",
+      "sha256": "edbce68edddcea921baeafea0512b9ff77be0bd18ad218f404248ea983b46990",
+      "bounds": {
+        "min": [
+          -615,
+          -1338.72643835654,
+          -8.673617379884039e-16
+        ],
+        "max": [
+          1220,
+          -1295,
+          43.7264383565417
+        ]
+      },
+      "triangles": 2672,
+      "instances": [
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Vertical Angles (1).step",
+          "sha256": "edbce68edddcea921baeafea0512b9ff77be0bd18ad218f404248ea983b46990",
+          "dataHash": "3f6584f1e0180a3d195516692be623f38214f6a291ab511abb27756b9cfa296d"
+        },
+        {
+          "folder": "north sea v1 assembly",
+          "filename": "Assembly 1 - Vertical Angles.step",
+          "sha256": "50b7f8ebe62dcbead0b57d619ec4c20caa600ba35557ae124d0a9a3f20046b52",
+          "dataHash": "3f6584f1e0180a3d195516692be623f38214f6a291ab511abb27756b9cfa296d"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m5-short-bolt",
+      "label": "M5 × 10 bolt / v2",
+      "family": "Hex head bolt grade A & B M5x0.80 x 10",
+      "source": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 10 (1).step",
+      "sourceFolder": "North Sea (partial) Assembly v2",
+      "sha256": "bbb47f6ef2af929360661d139976611a4449f60b86a2c84725c1e1cd213d8e65",
+      "bounds": {
+        "min": [
+          -4.618802153517009,
+          -4,
+          -10
+        ],
+        "max": [
+          4.618802153517009,
+          4,
+          3.5
+        ]
+      },
+      "triangles": 1500,
+      "instances": [
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 10 (1).step",
+          "sha256": "bbb47f6ef2af929360661d139976611a4449f60b86a2c84725c1e1cd213d8e65",
+          "dataHash": "a669c09662ac660baaa628a7e8f5165ab2307dc9004eb5309b1530cd43405d83"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 10.step",
+          "sha256": "985af3c01576fa70326bd9e0003c762d18cdaec17c56bd83ccc5f1339ac573b4",
+          "dataHash": "a669c09662ac660baaa628a7e8f5165ab2307dc9004eb5309b1530cd43405d83"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "part-8",
+      "label": "Plate, Part 8 / v2",
+      "family": "Part 8",
+      "source": "Assembly 1 - Part 8.step",
+      "sourceFolder": "North Sea (partial) Assembly v2",
+      "sha256": "912618974c30d707aefeafad1c394e4d8a80a6d2845460761bb28dc17898452c",
+      "bounds": {
+        "min": [
+          -610,
+          -26.4155003428459,
+          0
+        ],
+        "max": [
+          610,
+          23.5844996571541,
+          2.5
+        ]
+      },
+      "triangles": 32864,
+      "instances": [
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - Part 8.step",
+          "sha256": "912618974c30d707aefeafad1c394e4d8a80a6d2845460761bb28dc17898452c",
+          "dataHash": "9e31690d3803a3e56a213e790e6af629f35227fa1968b92ab50a005857d6cc90"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "rear-clamp",
+      "label": "Rear clamp / v2",
+      "family": "rear clamp",
+      "source": "Assembly 1 - rear clamp (1).step",
+      "sourceFolder": "North Sea (partial) Assembly v2",
+      "sha256": "db8a22ae3b86c0d92b487c6d355446a758eafd78154a6828d55c094884771e3a",
+      "bounds": {
+        "min": [
+          -1832,
+          -854.694315069625,
+          -36.1004383565418
+        ],
+        "max": [
+          -612,
+          -778.515,
+          7.5
+        ]
+      },
+      "triangles": 2440,
+      "instances": [
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - rear clamp (1).step",
+          "sha256": "db8a22ae3b86c0d92b487c6d355446a758eafd78154a6828d55c094884771e3a",
+          "dataHash": "54dd2b64334f8d62a8f13784e6bdd2e8157976d0bc160185ccfe2f56541710b3"
+        },
+        {
+          "folder": "North Sea (partial) Assembly v2",
+          "filename": "Assembly 1 - rear clamp.step",
+          "sha256": "11e927627e91f40c6945596ebd795e823d11bf1945f4a82d58345c7ebe2710e6",
+          "dataHash": "54dd2b64334f8d62a8f13784e6bdd2e8157976d0bc160185ccfe2f56541710b3"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    }
+  ]
+}

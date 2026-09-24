@@ -1,0 +1,59 @@
+# Noah Berrie — noahberrie.com
+
+> Sound artist working between installation, composition, and performance.
+
+## About
+
+Noah Berrie is a New York and London-based sound artist working between installation, composition, and performance.
+
+His work examines sound's physical, perceptual, and residual nature, often reduced to its fundamental components: vibration, resonance, density, and tuning. The result is felt as much as heard — sound you move through, inseparable from space and material.
+
+Trained as a classical violinist, Berrie now performs with a custom electroacoustic system built around feedback and responsive electronics. He is active in experimental and improvised music communities, scores for film, and releases music independently.
+
+His work has been presented at the Haus für Medienkunst, Oldenburg; Alexander McQueen Sarabande Foundation, London; Tracey Emin Foundation, Margate; Gray Area, San Francisco; and Audium, San Francisco, among others. He holds an MA from CCRMA at Stanford University.
+
+## Education
+
+- MA Music, Science & Technology — Stanford University, Center for Computer Research in Music and Acoustics (CCRMA) (2022)
+- BS Symbolic Systems & BA Music (Composition) — Stanford University (2021)
+
+## Residencies & Grants
+
+- Stiftung Niedersachsen Media Art Grant, Haus für Medienkunst, Oldenburg, DE (2025–26)
+- High House (Antony Gormley, Vicken Parsons), Norfolk, UK (2025)
+- Studio Richter Mahr, Oxfordshire, UK (2025)
+- Tracey Emin Foundation, Margate, UK (2025)
+- Artist in Residence, Sarabande Foundation (Lee Alexander McQueen), London, UK (2023–24)
+- New Voices Residency, Audium, San Francisco, US (2022)
+- Chappell Lougee Grant, Composition Residency, Berlin, DE (2019)
+
+## Current Exhibition
+
+ANTIPHON — solo exhibition, Haus für Medienkunst, Oldenburg, Germany (March–May 2026)
+Five sound installations across two floors: Suspension, North Sea (Heave, Sway, Surge), Interval II, Fundamental, and Antiphon.
+
+## Key Works
+
+- SUSPENSION (2026) — Nine piano wires suspended by lead weights, vibrating through electromagnetic feedback. Self-generating, tuned in just intonation around the artist's body weight.
+- North Sea (Heave, Sway, Surge) (2026) — 534 steel strings plucked by motors driven by gyroscope data from a buoy deployed in the North Sea. Twenty-five hours of ocean transposed into metal.
+- Interval II (2026) — Bass piano strings mounted between rooms, activated by vibrating motors running a wave algorithm that ripples through the building.
+- Fundamental (2026) — Two subwoofers play recursive room-tone recordings filtered below 20 Hz — felt in the chest and floor, not heard.
+- ANTIPHON (2026) — Sixteen speakers distribute a slowed string quintet composition through a darkened room. Generative, durational.
+- Setting (N1 5SH) (2024) — Twelve strings tuned chromatically, electromagnetically activated by local FM radio. An ever-changing music specific to a single place and time.
+- Interval (2024) — Wall-mounted strings vibrating via self-oscillating feedback loops, tuned by the architecture of the space.
+- Mirror (2024) — Modified plate reverb instrument. Gallery microphones routed to voice coils magnetize a steel plate etched with empty staves.
+- Paper Speakers (2023–24) — 34-channel installation using handmade speakers of paper and copper wire.
+- Organ Music (2021–2022) — Site-specific piece performed in total darkness at Audium, San Francisco. Throat wired to transducers, the entire building becomes a vibrating mass.
+- My Heart (2021) — Audiovisual piece for ten screens and eight speakers. Point cloud cities, spatialized sound, and the dreamlike fragmentation of memory.
+- Not Here (2021) — 14-channel sound installation with Angelica Jopling. Intertwining narratives from found objects in space. Meaning strips away toward incomprehension.
+
+## Contact
+
+- Instagram: @noahberrie
+- Bandcamp: noahberrie.bandcamp.com
+
+## Site Map
+
+- /          — Works (selected works)
+- /info      — Bio, CV, shows & exhibitions, residencies & grants, education, performances, press, contact
+- /works/*   — Individual work detail pages

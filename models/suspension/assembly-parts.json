@@ -1,0 +1,264 @@
+{
+  "units": "millimetres",
+  "assemblyTransformsAvailable": false,
+  "parts": [
+    {
+      "slug": "m3-20",
+      "label": "M3 × 20 mm bolt · 4 supplied",
+      "family": "Hex head bolt grade A & B M3x0.50 x 20",
+      "source": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 (1).step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "dd9a0313ec5cb944d527478918a1f140c257f8bff5f36732354d9d858fd771c2",
+      "bounds": {
+        "min": [
+          -3.17542648054294,
+          -2.75,
+          -20
+        ],
+        "max": [
+          3.17542648054294,
+          2.75,
+          2
+        ]
+      },
+      "triangles": 1162,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 (1).step",
+          "sha256": "dd9a0313ec5cb944d527478918a1f140c257f8bff5f36732354d9d858fd771c2",
+          "dataHash": "7f49c8086609a02a3de4a80d07c98abee125adda76933130cbea001faed13346"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 (2).step",
+          "sha256": "2ea5b537556e898f050283311c1028fef797f5253fe66eb432cfdcc29da33ff5",
+          "dataHash": "7f49c8086609a02a3de4a80d07c98abee125adda76933130cbea001faed13346"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20 (3).step",
+          "sha256": "3b1ca029777ff6307be39e4350cc9f9d1b8fc19bacfe7b3ee189dfff9d236786",
+          "dataHash": "7f49c8086609a02a3de4a80d07c98abee125adda76933130cbea001faed13346"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M3x0.50 x 20.step",
+          "sha256": "b460760c4e256ee090f9bddadbf2718c77364d37c4ddf56dbacfd186a73ee1d6",
+          "dataHash": "7f49c8086609a02a3de4a80d07c98abee125adda76933130cbea001faed13346"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m5-25",
+      "label": "M5 × 25 mm bolt · 4 supplied",
+      "family": "Hex head bolt grade A & B M5x0.80 x 25",
+      "source": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 25 (1).step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "b82f9c050cb025dd5bc8ac11f56ef583e236f688ca742bc3b813976b68b91f8d",
+      "bounds": {
+        "min": [
+          -4.618802153517009,
+          -4,
+          -25
+        ],
+        "max": [
+          4.6188021535170005,
+          4,
+          3.5
+        ]
+      },
+      "triangles": 1500,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 25 (1).step",
+          "sha256": "b82f9c050cb025dd5bc8ac11f56ef583e236f688ca742bc3b813976b68b91f8d",
+          "dataHash": "ba30af0dc404e3ad91a52cd55897acff7cb2b03ddf08c1aed25b504537ece977"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 25 (2).step",
+          "sha256": "acd8e18ae0784caf8ebbf1786bb69637ed92523b0773d6fb80f4a62a61e235eb",
+          "dataHash": "ba30af0dc404e3ad91a52cd55897acff7cb2b03ddf08c1aed25b504537ece977"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 25 (3).step",
+          "sha256": "22914582395fc55bc715b90874c9b7f303728b017601068c8aa0e4629e59411d",
+          "dataHash": "ba30af0dc404e3ad91a52cd55897acff7cb2b03ddf08c1aed25b504537ece977"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 25.step",
+          "sha256": "7d756d43ee95dda3c2c8387d5c044c8002fd6787582ec0ef2bb1fd1ad0949ac2",
+          "dataHash": "ba30af0dc404e3ad91a52cd55897acff7cb2b03ddf08c1aed25b504537ece977"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m5-45",
+      "label": "M5 × 45 mm bolt · 2 supplied",
+      "family": "Hex head bolt grade A & B M5x0.80 x 45",
+      "source": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 45 (1).step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "4507dd4199af1ae25475cdb959af41da50f6b3f5ee76051a2f11b3b030d7f95a",
+      "bounds": {
+        "min": [
+          -4.618802153517009,
+          -4,
+          -45
+        ],
+        "max": [
+          4.6188021535170005,
+          4,
+          3.5
+        ]
+      },
+      "triangles": 1500,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 45 (1).step",
+          "sha256": "4507dd4199af1ae25475cdb959af41da50f6b3f5ee76051a2f11b3b030d7f95a",
+          "dataHash": "3156e35c4970e0750b25196d70419a3d90b5fb94ae0b48d16eb40e7bc71739c5"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M5x0.80 x 45.step",
+          "sha256": "62ad03f655482d27e53b2d147e9e9413aeba9b92b109164dd54f671af91439c7",
+          "dataHash": "3156e35c4970e0750b25196d70419a3d90b5fb94ae0b48d16eb40e7bc71739c5"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "m8-50",
+      "label": "M8 × 50 mm bolt · 2 supplied",
+      "family": "Hex head bolt grade A & B M8x1.25 x 50",
+      "source": "Assembly 1 - Hex head bolt grade A & B M8x1.25 x 50 (1).step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "3681982491b409fbcf7e9445d76ece3435c0b8975edbdfc6b33cf64b3a2201fc",
+      "bounds": {
+        "min": [
+          -7.50555349946514,
+          -6.5,
+          -50
+        ],
+        "max": [
+          7.50555349946514,
+          6.5,
+          5.3
+        ]
+      },
+      "triangles": 1582,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M8x1.25 x 50 (1).step",
+          "sha256": "3681982491b409fbcf7e9445d76ece3435c0b8975edbdfc6b33cf64b3a2201fc",
+          "dataHash": "e303e3d8916a0a47da8ebeaa93ff5da05347934a9973aa753c1be3fc5a99e309"
+        },
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Hex head bolt grade A & B M8x1.25 x 50.step",
+          "sha256": "f939380b0b1c05934236a12dfc5be3917c93e1d096cfc2ab095ac69c90868b80",
+          "dataHash": "e303e3d8916a0a47da8ebeaa93ff5da05347934a9973aa753c1be3fc5a99e309"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "mount-1",
+      "label": "Mounting channel · Part 1",
+      "family": "Part 1",
+      "source": "Assembly 1 - Part 1.step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "4999a084e64adfe7751790bbfbd4620ea15e464a921f52bf70a5b33a20f7e24f",
+      "bounds": {
+        "min": [
+          -47.300000000000004,
+          -180.00000000000006,
+          0
+        ],
+        "max": [
+          -12.7,
+          20,
+          24.4200225807275
+        ]
+      },
+      "triangles": 1924,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Part 1.step",
+          "sha256": "4999a084e64adfe7751790bbfbd4620ea15e464a921f52bf70a5b33a20f7e24f",
+          "dataHash": "ed50dae4f77ecc20dcf592474338ac8043a80ac513c97ad1b74a1ba261bb99bd"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "mount-2",
+      "label": "Main channel · Part 2",
+      "family": "Part 2",
+      "source": "Assembly 1 - Part 2.step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "562e2e1708246c351c16b978511e4ae27958ba9419baba69f501cd1b936f54d4",
+      "bounds": {
+        "min": [
+          77.0280766010282,
+          -146.03181894421502,
+          -1.7407950081427302e-12
+        ],
+        "max": [
+          126.62807660102801,
+          204.0681810557843,
+          39.4200225807275
+        ]
+      },
+      "triangles": 2124,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Part 2.step",
+          "sha256": "562e2e1708246c351c16b978511e4ae27958ba9419baba69f501cd1b936f54d4",
+          "dataHash": "312afa0fb8c18b1bbeab37d5da1a85b6e5a1a68bd27ca60aa3fb07a8997fd3c2"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    },
+    {
+      "slug": "plate",
+      "label": "Mounting plate · Part 3",
+      "family": "Part 3",
+      "source": "Assembly 1 - Part 3.step",
+      "sourceFolder": "SUSPENSION hanging string detail assembly",
+      "sha256": "88c20f4838534020065b3a75facc98ad8ef1713a9534d8babd9b5d2d580e87cd",
+      "bounds": {
+        "min": [
+          227.784801602364,
+          128.818252110481,
+          0
+        ],
+        "max": [
+          269.784801602364,
+          208.8591741848712,
+          2.5
+        ]
+      },
+      "triangles": 420,
+      "instances": [
+        {
+          "folder": "SUSPENSION hanging string detail assembly",
+          "filename": "Assembly 1 - Part 3.step",
+          "sha256": "88c20f4838534020065b3a75facc98ad8ef1713a9534d8babd9b5d2d580e87cd",
+          "dataHash": "6a60dd6c9e26423bc9e5b6f89b644c046379f7acbd2d668e8ed2d8d38133bec4"
+        }
+      ],
+      "identicalInstanceCoordinates": true
+    }
+  ]
+}

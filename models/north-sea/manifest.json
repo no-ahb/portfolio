@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Hitch Pin Plate",
+    "slug": "hitch-pin-plate",
+    "source": "Part Studio 1 - Hitch Pin Plate.step",
+    "sha256": "556e194a2725acd42de35f48d1f3e95b7ca6f7677924847ef3b61b0c08a89059",
+    "bounds": {
+      "min": [
+        -1832,
+        600,
+        0
+      ],
+      "max": [
+        -612,
+        800,
+        2.5
+      ]
+    },
+    "triangles": 33036
+  },
+  {
+    "name": "Horizontal Angles",
+    "slug": "horizontal-angles",
+    "source": "Part Studio 1 - Horizontal Angles.step",
+    "sha256": "c9a7757b27f9db64f8bb2fec96fc7da3770b8d91c82b01e6a98ffff428ceff1c",
+    "bounds": {
+      "min": [
+        -1.65340575593335e-12,
+        -1108.7264383566,
+        -8.673617379884039e-16
+      ],
+      "max": [
+        1220.0000000000005,
+        -1065,
+        43.7264383565417
+      ]
+    },
+    "triangles": 3688
+  },
+  {
+    "name": "Plywood",
+    "slug": "plywood",
+    "source": "Part Studio 1 - Plywood.step",
+    "sha256": "4b736eb534dcd9e6a86173dbdaf244c73440571e8a89b10358b95ab803d5f6fb",
+    "bounds": {
+      "min": [
+        -5.55111512312578e-14,
+        -700,
+        0
+      ],
+      "max": [
+        1220,
+        -500,
+        36
+      ]
+    },
+    "triangles": 12
+  },
+  {
+    "name": "Pressure Bar",
+    "slug": "pressure-bar",
+    "source": "Part Studio 1 - Pressure Bar.step",
+    "sha256": "295df55c9c52a804b907f18e6d61a8d458c6b6faf07e79647041efe5500f4333",
+    "bounds": {
+      "min": [
+        -1804.8822555542,
+        -554.140142440796,
+        0
+      ],
+      "max": [
+        -1772.8822555542001,
+        -546.140142440796,
+        2.5
+      ]
+    },
+    "triangles": 356
+  },
+  {
+    "name": "Tuning Peg Plate",
+    "slug": "tuning-peg-plate",
+    "source": "Part Studio 1 - Tuning Peg Plate.step",
+    "sha256": "89b0af091df1ce1142648efe4785e86bd14a9c0fb31093ed06110d5f80d49061",
+    "bounds": {
+      "min": [
+        -1832,
+        -800,
+        0
+      ],
+      "max": [
+        -612,
+        -600,
+        2.5
+      ]
+    },
+    "triangles": 47828
+  },
+  {
+    "name": "Vertical Angles",
+    "slug": "vertical-angles",
+    "source": "Part Studio 1 - Vertical Angles.step",
+    "sha256": "ab87304ad68c1a48add5ddc97caad68dfd2b6d52f2b09be1955799128047dcc5",
+    "bounds": {
+      "min": [
+        -615,
+        -1338.72643835654,
+        -8.673617379884039e-16
+      ],
+      "max": [
+        1220,
+        -1295,
+        43.7264383565417
+      ]
+    },
+    "triangles": 2672
+  }
+]
